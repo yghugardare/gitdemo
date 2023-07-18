@@ -1,0 +1,1 @@
+git stash - Temporarily store modified, tracked files in order to change branches, Save modified and staged change
